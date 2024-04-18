@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="" alt="Photo" style="width: 450px;"/> 
-</p>
-
 # About Me
 * I am a PhD student in the Representation Learning Lab at [IISc - Bangalore](https://iisc.ac.in/), advised by Prof. [Prathosh A P](https://eecs.iisc.ac.in/people/prathosh-a-p/).
 * My research interests lie in machine learning, particularly generative modeling, dynamical systems, and scientific ML.
