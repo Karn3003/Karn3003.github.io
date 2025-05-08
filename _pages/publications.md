@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications :contentReference[oaicite:0]{index=0}
-
 - **[CoNO: Complex neural operator for continuous dynamical physical systems](https://pubs.aip.org/aip/aml/article/3/2/026101/3341898/CoNO-Complex-neural-operator-for-continous)**  
   - **Authors:** Karn Tiwari, NM Anoop Krishnan, Prathosh A.P.  
   - **Journal:** *APL Machine Learning, AIP Publishing, 2025*  
