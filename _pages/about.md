@@ -17,4 +17,4 @@ redirect_from:
 * 1 Aug 2022. Joined IISc Bangalore for PhD.
 
 # Academic Services
-* Reviewer: ICECET 2024.
+* Reviewer: CVPR (2023), NeurIPS (2024), AISTATS (2024), ICLR (2024), ICML (2024)
